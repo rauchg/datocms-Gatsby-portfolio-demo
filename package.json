@@ -12,7 +12,7 @@
     "gatsby-source-datocms": "^2.1.18",
     "gatsby-source-filesystem": "^2.1.29",
     "gatsby-transformer-remark": "^2.6.27",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.0",
